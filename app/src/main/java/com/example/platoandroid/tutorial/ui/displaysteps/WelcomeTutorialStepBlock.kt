@@ -18,7 +18,7 @@ class WelcomeTutorialStepBlock: TutorialStepUiState {
         style = MaterialTheme.typography.subtitle2
       )
       Text(
-        text = "That is the first step towards learning to develop Android apps! Are ready to get started learning about Android development?"
+        text = "That is the first step towards learning to develop Android apps! Are you ready to get started learning about Android development?"
       )
       Button(onClick = { showNextStep() }) {
         Text(text = "Get started")
