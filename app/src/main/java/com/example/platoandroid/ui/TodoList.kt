@@ -72,7 +72,7 @@ import kotlin.random.Random
  *  Text(text = taskName)
  * }
  *
- * Compose has two layout composables you will use alot, those are Row (like we
+ * Compose has two layout composables you will use a lot, those are Row (like we
  * just used) and Column. Anything in a Row, will layout horizontal and anything
  * in a Column, will layout vertically.
  *
@@ -90,7 +90,7 @@ import kotlin.random.Random
  *
  * Add a few of your TodoListRow composables inside of the TodoList
  * composable. You can give them made up taskNames for now as we will handle
- * letting the user input those values later on. Rebuild the app to see how row items
+ * letting the user input those values later on. Rebuild the app to see how the row items
  * turned out.
  *
  * You'll notice that the checkmark Icon and the task names are pretty close together.
